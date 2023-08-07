@@ -1,3 +1,6 @@
+console.log("test")
+
+
 const base = document.querySelector("#base")
 const add = document.querySelector("#add")
 const ansInput = document.querySelector("#ans")
